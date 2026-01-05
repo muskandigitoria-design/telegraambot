@@ -1,7 +1,8 @@
 const TelegramBot = require("node-telegram-bot-api");
 
 // ✅ BOT TOKEN from Railway / ENV
-const token = process.env.BOT_TOKEN;
+const token = "8585445516:AAGXnyMye4Kt2zm3ItU0kGCzOKPSfSEdAFA";
+
 
 if (!token) {
   console.error("❌ BOT_TOKEN missing in environment variables");
