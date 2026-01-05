@@ -1,0 +1,12 @@
+{
+  "name": "telegram-education-bot",
+  "version": "1.0.0",
+  "description": "Telegram Educational Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
